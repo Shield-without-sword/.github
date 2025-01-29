@@ -18,7 +18,7 @@ If you've ever looked at a feature and thought, *"This is way too practical"*, d
 
 ## 📌 **Some of Our Glorious Creations**  
 
-- 📜[**Will Chain**](https://github.com/ShieldWithoutSword/Will-Chain) - A legally questionable (but surprisingly useful) way to manage wills online. Think *smart contracts* but without the confusing crypto stuff.  
+- 📜[**Will Chain**](https://github.com/ShieldWithoutSword/Will-Managment-1.0) - A legally questionable (but surprisingly useful) way to manage wills online. Think *smart contracts* but without the confusing crypto stuff.  
 
 
 ---
