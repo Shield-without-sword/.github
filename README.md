@@ -4,7 +4,6 @@
 
 Welcome to **Shield Without Sword**, where we charge into hackathons, coding sprints, and caffeine-fueled nights—without a sword, but with plenty of brainpower. 🧠⚡ We don’t just build projects; we *over-engineer* them for the fun of it.  
 
-We’ve tackled some wild ideas, like managing wills (yes, seriously) 
 ---
 
 ## 🛠️ **Who We Are**  
