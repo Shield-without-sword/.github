@@ -1,6 +1,6 @@
-# 🛡️ Shield Without Sword  
+# 🛡️ Shield Without Sword 🗡
 
-**Hackathon Hustlers | Web Wizards | Chaos Enthusiasts**  
+**Hackathon Survivors | The “Works on My Machine” Crew | Building Features No One Asked For**  
 
 Welcome to **Shield Without Sword**, where we charge into hackathons, coding sprints, and caffeine-fueled nights—without a sword, but with plenty of brainpower. 🧠⚡ We don’t just build projects; we *over-engineer* them for the fun of it.  
 
