@@ -24,7 +24,7 @@ If you've ever looked at a feature and thought, *"This is way too practical"*, d
 ## 🚀 **What’s Next?**  
 
 More hackathons. More caffeine. More borderline unhinged projects. We don’t know what we’re building next, but it’s probably going to involve too many API calls and at least one existential crisis.  
-
+> *Note: We appreciate interest, but we aren’t currently expanding our team. This organization was created to streamline collaboration among existing members.*
 ---
 
 ## 💡 **Why We Created This Organization**  
@@ -34,4 +34,3 @@ Managing repos across different profiles got annoying, so we made this. Now ever
 ---
 
 Feel free to check out our projects, steal some ideas (but like, credit us), and join us in making the internet a slightly more chaotic place.  
-
