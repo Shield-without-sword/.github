@@ -12,8 +12,8 @@ We are a team driven by a passion for **web development**, constantly honing our
 
 ## 📌 **Our Work So Far**  
 
-- 🔗 [Will Chain](https://github.com/ShieldWithoutSword/Will-Chain): A blockchain-based platform revolutionizing digital wills with **smart contracts**, ensuring secure and automated asset distribution without intermediaries.
-- 🚀 [Eventify](https://github.com/ShieldWithoutSword/Eventify): A MERN stack event invitation platform where users create events and share invite links. Guests RSVP without logging in, get a QR entry pass, and a media upload link if they accept. Simple, seamless, and efficient
+- 🔗 [Will Chain](https://github.com/Shield-without-sword/Will-Chain): A blockchain-based platform revolutionizing digital wills with **smart contracts**, ensuring secure and automated asset distribution without intermediaries.
+- 🚀 [Eventify](https://github.com/Shield-without-sword/Eventify): A MERN stack event invitation platform where users create events and share invite links. Guests RSVP without logging in, get a QR entry pass, and a media upload link if they accept. Simple, seamless, and efficient
   
 Our main focus remains **web development**, and while we love experimenting, we always return to our core strengths—building powerful, scalable applications.
 
