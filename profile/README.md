@@ -17,9 +17,9 @@ If you've ever looked at a feature and thought, *"This is way too practical"*, d
 ## 📌 **Some of Our Glorious Creations**  
 
 - 📜[**Will Chain**](https://github.com/Shiel-without-sword/Will-Managment-1.0) - A legally questionable (but surprisingly useful) way to manage wills online. Think *smart contracts* but without the confusing crypto stuff.  
-- 🎉[**Eventify**](https://github.com/Shield-without-sword/Eventify): A MERN stack event invitation platform where users create events and share invite links. Guests RSVP without logging in, get a QR entry pass, and a media upload link if they accept. Simple, seamless, and efficient
-- 📚[**Full Stack LMS**](https://github.com/Shield-without-sword/LMS): A **MERN stack** application that provides structured learning modules, interactive quizzes, AI-powered interview preparation, real-time collaboration, and a VR-driven community experience.
-- 🤝[**Aamchi मुंबई**](https://github.com/Shield-without-sword/Aamchi-Mumbai): It enables NGOs to efficiently manage events while allowing volunteers to track their contributions, measure their impact, and showcase their achievements through a personalized dashboard.
+- 🎉[**Eventify**](https://github.com/Shield-without-sword/Eventify) - A MERN stack event invitation platform where users create events and share invite links. Guests RSVP without logging in, get a QR entry pass, and a media upload link if they accept. Simple, seamless, and efficient
+- 📚[**Full Stack LMS**](https://github.com/Shield-without-sword/LMS) - A **MERN stack** application that provides structured learning modules, interactive quizzes, AI-powered interview preparation, real-time collaboration, and a VR-driven community experience.
+- 🤝[**Aamchi मुंबई**](https://github.com/Shield-without-sword/Aamchi-Mumbai) - It enables NGOs to efficiently manage events while allowing volunteers to track their contributions, measure their impact, and showcase their achievements through a personalized dashboard.
 
 ---
 
